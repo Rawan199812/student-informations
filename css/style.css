@@ -15,6 +15,8 @@ nav ul li{
 nav ul li a{
     color: white;
     
+    }
+    
 }
 table{
     border: white solid 2px;
@@ -29,4 +31,7 @@ td{
 }
 form{
     border: white 1px solid;
+}
+h1{
+    text-align: center;
 }
