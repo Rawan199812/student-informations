@@ -1,0 +1,32 @@
+body{
+    /* background: url(bg.jpg)no-repeat;
+    background-size: cover; */
+    background-image: url(../bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: larger;
+ 
+}
+nav ul li{
+    display: inline-block;
+    
+}
+nav ul li a{
+    color: white;
+    
+}
+table{
+    border: white solid 2px;
+    padding: 10px;
+}
+th{
+    padding: 20px;
+}
+td{
+    padding: 20px;
+
+}
+form{
+    border: white 1px solid;
+}
